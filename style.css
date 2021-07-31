@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-hero{
+    background-color:#264653;
+}
+.btn-hero{
+    background-color:#E76F51;
+}
+.font-hero{
+    font-weight: 600;
+}
+.grayscale{
+    filter:grayscale(350%);
+}
+.btn-outline-hero{
+    border: 1px solid #E76F51;
+}
+.filled, .empty{
+    color: #E76F51;
+}
+.text-hero{
+    color: #252B42;
+}
+.text-hero-main{
+    color: #E76F51;
+}
+.font-hero-accordian{
+    font-weight: 500;
+}
